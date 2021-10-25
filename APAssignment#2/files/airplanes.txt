@@ -1,0 +1,4 @@
+Majesco Airlines	200	0
+Sufi Airlines	250	1
+Imtiaz Air Travels	200	0
+United Airline Travels	300	1

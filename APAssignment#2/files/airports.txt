@@ -1,0 +1,7 @@
+PK786	Allama Iqbal Internatioanl Airport, Lahore, Pakistan
+PK788	Bhutto International Airport, Islamabad, Pakistan
+US184	Washington International Airport, Washington, U.S.A.
+CA175	Toronto International Airport, Toronto, Canada
+AU293	Sydney International Airport, Sydney, Australia
+UK744	London International Airport, London, United Kingdom
+AE176	Abu Dhabi International Airport, Abu Dhabi, U.A.E.
